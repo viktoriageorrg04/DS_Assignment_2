@@ -12,6 +12,7 @@ env/
 chest_xray/
 # artifacts/
 # *.zip
+cache/
 
 # OS/editor
 .DS_Store
