@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+.ipynb_checkpoints/
+
+# Jupyter outputs/logs
+*.log
+
+# Data and artifacts
+chest_xray/
+# artifacts/
+# *.zip
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+assignment2_text.txt

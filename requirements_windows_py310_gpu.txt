@@ -1,0 +1,18 @@
+# Python 3.10 + Windows + TensorFlow GPU-friendly stack (assignment-focused)
+# Notes:
+# - TensorFlow 2.10 is the last native Windows release with NVIDIA CUDA GPU support.
+
+numpy==1.23.5
+scipy==1.10.1
+matplotlib==3.7.5
+seaborn==0.13.2
+pandas==1.5.3
+scikit-learn==1.3.2
+opencv-python==4.8.1.78
+pillow==10.4.0
+
+tensorflow==2.10.1
+keras==2.10.0
+
+jupyterlab==4.2.5
+ipykernel==6.29.5
