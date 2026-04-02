@@ -20,3 +20,5 @@ Thumbs.db
 .vscode/
 
 assignment2_text.txt
+/hpo_results
+/artifacts/opti_20260325_150333 - Best of Opti/model.keras
